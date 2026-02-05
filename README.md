@@ -150,7 +150,7 @@ It allows users to **explore, create, save, and manage recipes** securely in a s
 
 ---
 
-## 📌 Future Improvements (Optional)
+## 📌 Future Improvements 
 - Recipe comments & reviews  
 - User profile customization  
 - Admin dashboard  
@@ -159,7 +159,7 @@ It allows users to **explore, create, save, and manage recipes** securely in a s
 ---
 
 ## 👨‍💻 Author
-**Pawan**  
+**Pawan Kumar**  
 MERN Stack Developer  
 
 ---
